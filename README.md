@@ -1,7 +1,7 @@
  
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   # Budget App
-  ![](/public/img/screen.png)
+  ![](Develop/public/img/screen.png)
   ## Description 
   Budget Tracker application allows offline access and functionality.
   The user able to add expenses and deposits to their budget with or without a connection. 
